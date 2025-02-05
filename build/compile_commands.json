@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/c/Users/krper/Documents/School/Learning-OpenGL/build",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/krper/Documents/School/Learning-OpenGL/dependencies -g -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /mnt/c/Users/krper/Documents/School/Learning-OpenGL/src/main.cpp",
+  "file": "/mnt/c/Users/krper/Documents/School/Learning-OpenGL/src/main.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/krper/Documents/School/Learning-OpenGL/build",
+  "command": "/usr/bin/gcc  -I/mnt/c/Users/krper/Documents/School/Learning-OpenGL/dependencies -g -o CMakeFiles/hello_window.dir/src/glad.c.o -c /mnt/c/Users/krper/Documents/School/Learning-OpenGL/src/glad.c",
+  "file": "/mnt/c/Users/krper/Documents/School/Learning-OpenGL/src/glad.c",
+  "output": "CMakeFiles/hello_window.dir/src/glad.c.o"
+}
+]
