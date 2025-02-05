@@ -108,6 +108,7 @@ hello_window_EXTERNAL_OBJECTS =
 hello_window: CMakeFiles/hello_window.dir/src/main.cpp.o
 hello_window: CMakeFiles/hello_window.dir/src/glad.c.o
 hello_window: CMakeFiles/hello_window.dir/build.make
+hello_window: /usr/lib/x86_64-linux-gnu/libglfw.so
 hello_window: /usr/lib/x86_64-linux-gnu/libGLX.so
 hello_window: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 hello_window: CMakeFiles/hello_window.dir/link.txt
